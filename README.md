@@ -1,6 +1,8 @@
 # nosql_module_3
 
-Still in progress - partial solution:
+**Still in progress - partial solution:**
+
+
 ![1 1_cluster_start](https://github.com/user-attachments/assets/79140ef2-e7e7-48b5-a896-2537eb8090ec)
 ![1 2_health](https://github.com/user-attachments/assets/d2a51c49-45c7-4c11-b06b-e576972526c3)
 ![1 3_stats](https://github.com/user-attachments/assets/8d7450ff-857f-4445-ba66-f54c1f14ff83)
